@@ -1,6 +1,6 @@
 {
-  "name": "http-",
-  "version": "0.0.5",
+  "name": "@http",
+  "version": "0.0.1",
   "description": "Some tools to work with for the HTTP protocol.",
   "main": "index.js",
   "repository": "https://github.com/lionares/HTTP.git",
