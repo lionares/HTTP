@@ -1,9 +1,13 @@
 {
   "name": "http-",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Some tools to work with for the HTTP protocol.",
   "main": "index.js",
   "repository": "https://github.com/lionares/HTTP.git",
   "author": "aronwouters <lionares@mail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "./URL"
+  ]
 }
