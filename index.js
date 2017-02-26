@@ -2,5 +2,5 @@ let URI = require ( './URL/URI' );
 let host = require ( './URL/host' );
 
 
-module.exports.URI = URI;
-module.exports.host = host;
+module.exports.URL.URI = URI;
+module.exports.URL.host = host;
