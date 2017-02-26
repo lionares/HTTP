@@ -1,6 +1,6 @@
 {
   "name": "http-",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Some tools to work with for the HTTP protocol.",
   "main": "index.js",
   "repository": "https://github.com/lionares/HTTP.git",
@@ -8,6 +8,6 @@
   "license": "MIT",
   "files": [
     "index.js",
-    "./URL"
+    "URL"
   ]
 }
