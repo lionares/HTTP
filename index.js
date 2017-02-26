@@ -1,5 +1,5 @@
-let URI = require ( 'URL/URI' );
-let host = require ( 'URL/host' );
+let URI = require ( './URL/URI' );
+let host = require ( './URL/host' );
 
 
 module.exports.URI = URI;
